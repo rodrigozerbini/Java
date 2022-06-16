@@ -1,2 +1,2 @@
 # Java
-Java programs
+Java Code Challenges
