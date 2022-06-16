@@ -6,7 +6,7 @@ Your goal is to find that missing element.
 
 Write a function:
 
-class Solution { public int solution(int[] A); }
+  class Solution { public int solution(int[] A); }
 
 that, given an array A, returns the value of the missing element.
 
