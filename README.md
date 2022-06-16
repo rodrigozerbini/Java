@@ -1,2 +1,2 @@
-# Java2
+# Java
 Java programs
