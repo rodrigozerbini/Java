@@ -13,12 +13,12 @@ For example, consider string S = CAGCCTA and arrays P, Q such that:
     P[2] = 0    Q[2] = 6  
 The answers to these M = 3 queries are as follows:
 
-The part of the DNA between positions 2 and 4 contains nucleotides G and C (twice), whose impact factors are 3 and 2 respectively, so the answer is 2.
-The part between positions 5 and 5 contains a single nucleotide T, whose impact factor is 4, so the answer is 4.
-The part between positions 0 and 6 (the whole string) contains all nucleotides, in particular nucleotide A whose impact factor is 1, so the answer is 1.
+The part of the DNA between positions 2 and 4 contains nucleotides G and C (twice), whose impact factors are 3 and 2 respectively, so the answer is 2.  
+The part between positions 5 and 5 contains a single nucleotide T, whose impact factor is 4, so the answer is 4.  
+The part between positions 0 and 6 (the whole string) contains all nucleotides, in particular nucleotide A whose impact factor is 1, so the answer is 1.  
 Write a function:
 
-class Solution { public int[] solution(String S, int[] P, int[] Q); }
+> class Solution { public int[] solution(String S, int[] P, int[] Q); }
 
 that, given a non-empty string S consisting of N characters and two non-empty arrays P and Q consisting of M integers, returns an array consisting of M integers specifying the consecutive answers to all queries.
 
