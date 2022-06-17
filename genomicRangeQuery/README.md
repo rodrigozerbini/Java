@@ -32,7 +32,7 @@ For example, given the string S = CAGCCTA and arrays P, Q such that:
     P[2] = 0    Q[2] = 6  
 the function should return the values [2, 4, 1], as explained above.
 
-Write an efficient algorithm for the following assumptions:
+Write an algorithm for the following assumptions:
 
 N is an integer within the range [1..100,000];  
 M is an integer within the range [1..50,000];  
