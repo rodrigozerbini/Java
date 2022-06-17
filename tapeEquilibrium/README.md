@@ -15,6 +15,7 @@ For example, consider array A such that:
   A[2] = 2  
   A[3] = 4  
   A[4] = 3  
+  
 We can split this tape in four places:
 
 P = 1, difference = |3 − 10| = 7  
